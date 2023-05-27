@@ -1,0 +1,1 @@
+Python, robin_stocks library, Discord API
