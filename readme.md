@@ -1,1 +1,1 @@
-Python, robin_stocks library, Discord API
+Python, robin_stocks Library, Robinhood API, Discord API
